@@ -1,0 +1,20 @@
+{
+    "menu1": {
+        "name": "메뉴이름",
+        "cnt": 1,
+        "price": 100,
+        "option": {
+            "temp": "Hot",
+            "size": "Small",
+            "cup": "일회용컵"
+        }
+    },
+    "menu2": {
+        "name": "메뉴이름",
+        "cnt": 1,
+        "price": 200,
+        "option": {
+            "warm": "따뜻하게 데움"
+        }
+    }
+}

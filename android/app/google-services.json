@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1018448009882",
+    "project_id": "quaca-user",
+    "storage_bucket": "quaca-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018448009882:android:e6e15684fb317475585d23",
+        "android_client_info": {
+          "package_name": "com.tera.quaca_test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018448009882-6f1ldfqjer37i8jg204j1jjgs4d687oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tera.quaca_test2",
+            "certificate_hash": "432523f07f4a0e543d28ceb0dcf58dd3f3e14306"
+          }
+        },
+        {
+          "client_id": "1018448009882-8gnb2lv544aqtnjub6j8p9u1em7n5q8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tera.quaca_test2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1018448009882-l4tp9arh5lhqhi1d3027fg4lh3cf10d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tera.quaca_test2",
+            "certificate_hash": "d84e5a487af966d931aed9691fd1ff1b033a5dee"
+          }
+        },
+        {
+          "client_id": "1018448009882-o4qmal8o26sq5j96ru49oae8543100d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReEGGBn_5MXoXPCPFGfqncZWWTmOkHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018448009882-o4qmal8o26sq5j96ru49oae8543100d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

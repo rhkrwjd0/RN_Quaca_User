@@ -1,0 +1,18 @@
+# Check out https://docs.codemagic.io/getting-started/building-a-react-native-app/ for more information
+# Please review and update values in curly braces
+
+workflows:
+    react-native:
+        name: React Native App
+        environment:
+            vars:
+            node: latest
+        scripts:
+            - npm install
+            - echo "sdk.dir=$HOME/programs/android-sdk-macosx" > "$FCI_BUILD_DIR/android/local.properties"
+            - |
+                # build Android
+                cd android
+                ./gradlew assembleDebug
+        artifacts:
+            - android/app/build/outputs/**/*.apk
